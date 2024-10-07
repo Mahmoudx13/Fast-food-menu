@@ -1,0 +1,176 @@
+html {
+     
+    background-size: cover;
+   
+    background-image: url(img/Screenshot\ 2024-10-04\ 214045.png);
+}
+
+
+   
+ body{
+    width: 1050px;
+    margin: 0px auto;
+    padding: 20px 50px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 1px 1px 30px rgb(255, 255, 255);
+    text-align: center;
+    color: white;
+    background-color: rgba(108, 77, 49, 0.379);
+    }
+
+    
+  h2{
+
+ font-size: 50px;
+ text-align: center;
+ background-color: rgb(178, 80, 0);
+height: 60px;
+padding: 20px;
+box-shadow: 1px 1px 30px  rgb(158, 123, 93);
+border-radius: 20px;
+
+ }
+.Sigma{
+    font-size: 45px;
+    
+        border: 2px solid black;
+        padding: 16px;
+        border-radius: 15px;
+        padding-right: 10px;
+        background-color: rgba(255, 255, 255, 0.099);
+        box-shadow: 1px 1px 30px  rgb(73, 73, 73);
+      
+    
+}
+h1{
+       box-shadow: 1px 1px 30px  rgb(158, 123, 93);
+    text-align: center;
+    background-color: rgb(178, 80, 0);
+    border-radius: 15px;
+    font-size: 35px;
+
+}
+p{
+    text-align: center;
+}
+table {
+    margin: 0x auto;
+  }
+  td {
+    border: 2px solid rgb(253, 253, 253);
+    padding: 16px;
+    border-radius: 15px;
+    padding-right: 10px;
+    
+  }
+  .Shawrma{
+
+border-radius: 20px;
+border-color: black;
+box-shadow: 1px 1px 30px  rgb(158, 123, 93);
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 200px
+
+  }
+  
+
+  #animated-button {
+    background-color:rgb(252, 111, 68);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s;
+    margin-left: 435px;
+    margin-top: 10px;
+
+    
+ 
+}
+
+#animated-button:hover {
+    transform: scale(1.1);
+    background-color: #000000;
+}
+
+
+.donair{
+
+    border-radius: 20px;
+    border-color: black;
+    box-shadow: 1px 1px 30px  rgb(158, 123, 93);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ width: 240px;
+ height: 200px;
+ 
+    
+}
+.kebab{
+
+    
+    border-radius: 20px;
+    border-color: black;
+    box-shadow: 1px 1px 30px  rgb(158, 123, 93);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ width: 240px;
+ height: 200px;
+}
+.fatoosh{
+    border-radius: 20px;
+    border-color: black;
+    box-shadow: 1px 1px 30px  rgb(158, 123, 93);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ width: 240px;
+ height: 200px;
+}
+
+.knafeh{
+    border-radius: 20px;
+    border-color: black;
+    box-shadow: 1px 1px 30px  rgb(158, 123, 93);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ width: 240px;
+ height: 200px;
+}
+.baklava{  
+
+ border-radius: 20px;
+    border-color: black;
+    box-shadow: 1px 1px 30px  rgb(158, 123, 93);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ width: 240px;
+ height: 200px; }
+ 
+ .Dessert{
+    font-size: 45px;
+
+    
+    border: 2px solid rgb(0, 0, 0);
+    
+    border-radius: 15px;
+    padding-right: 10px;
+    background-color: rgba(255, 255, 255, 0.099);
+    box-shadow: 1px 1px 30px  rgba(0, 0, 0, 0.948);
+text-align: center;}
+td{
+border: 2px solid black; ;
+}
+p{
+
+    font-size: 20px;
+}
